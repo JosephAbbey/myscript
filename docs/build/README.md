@@ -278,3 +278,9 @@ namespace myscript
     }
 }
 ```
+
+<style>
+    :root {
+        scroll-behavior: smooth;
+    }
+</style>
